@@ -2,7 +2,7 @@
 
 <br>
 
-[![Jepetolee's github stats](https://github-readme-stats.vercel.app/api?username=jepetolee)](https://github.com/jepetolee/jepetolee)&nbsp
+[![Jepetolee's github stats](https://github-readme-stats.vercel.app/api?username=jepetolee)](https://github.com/jepetolee/jepetolee) <p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee)](https://github.com/anuraghazra/github-readme-stats)
 
 # Jepetolee's BOJ grade 
