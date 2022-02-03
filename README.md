@@ -1,6 +1,6 @@
 # Jepetolee
 
-### Interested in Neaural_networks & Mathematical_Optimizations, love to read library Files
+### Interested in Neural_networks & Mathematical_Optimizations, love to read library Files
 ### make projects with python, c++, rust
 
 <br>
