@@ -17,8 +17,7 @@
 
 # Jepetolee's Leetcode status
 
-<br>
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=jepetolee)](https://leetcode.card.workers.dev/?username=jepetolee)
+[![Jepetolee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jepetolee&theme=dark)](https://github.com/jepetolee/leetcode-stats)
 
 ## How to Connect me
 ### My email: jepetolee@gmail.com
