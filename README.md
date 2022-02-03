@@ -12,8 +12,11 @@
 <br> 
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejeasok05">
+
 <br>
+
 # Jepetolee's Leetcode status
+
 <br>
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=jepetolee)](https://leetcode.card.workers.dev/?username=jepetolee)
 
