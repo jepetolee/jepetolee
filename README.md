@@ -3,10 +3,13 @@
 ### Interested in Neural_networks & Mathematical_Optimizations, love to read library Files
 ### make projects with python, c++, rust
 
-<br>
+<p align ="center">
+<img width="55%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
+<img width="26%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee" />
+ <img src ="https://github-readme-streak-stats.herokuapp.com/?user=jepetolee&hide_border=true" />                                                                                                      
+</p>
+                                                                                                          
 
-[![Jepetolee's github stats](https://github-readme-stats.vercel.app/api?username=jepetolee)](https://github.com/jepetolee/jepetolee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee)](https://github.com/anuraghazra/github-readme-stats)
 
 # Jepetolee's BOJ grade 
 <br> 
