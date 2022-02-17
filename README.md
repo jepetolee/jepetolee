@@ -5,7 +5,7 @@
 
 <p align ="center">
 <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
-<img width="26%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee&layout=compact&langs_count=8)" />
+<img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee&layout=compact&langs_count=8)" />
  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=jepetolee&hide_border=true" />                                                                                                      
 </p>
                                                                                                           
