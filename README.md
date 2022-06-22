@@ -7,7 +7,7 @@
 <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
 <img width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee&layout=compact&langs_count=10)" />
 <a href="https://github.com/jepetolee">
-<img align="center" width="59%" height="160px" src="https://github-profile-trophy.vercel.app/?username=jepetolee&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
+<img align="center" height="160px" src="https://github-profile-trophy.vercel.app/?username=jepetolee&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
 </a>
  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=jepetolee&hide_border=true" />                                                                       <a href="https://opgc.me/#/users/jepetolee" target="_blank"><img src="https://api.opgc.me/githubs/users/jepetolee/tag/?theme=basic" /></a>
 </p>
