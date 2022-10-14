@@ -2,12 +2,12 @@
 ### make projects with python, c++, rust
 
 <p align ="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
+<img width="25%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
 <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee&layout=compact&langs_count=10)" />                                     
 </p>
 <p align = "center">
-<img width="60%" align="center" height="160px" src="https://github-profile-trophy.vercel.app/?username=jepetolee&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
-<img width="40%" src ="https://github-readme-streak-stats.herokuapp.com/?user=jepetolee&hide_border=true" />   
+<img width="25%" align="center" height="160px" src="https://github-profile-trophy.vercel.app/?username=jepetolee&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
+<img width="25%" src ="https://github-readme-streak-stats.herokuapp.com/?user=jepetolee&hide_border=true" />   
 </p>
 <a href="https://opgc.me/#/users/jepetolee" target="_blank"><img src="https://api.opgc.me/githubs/users/jepetolee/tag/?theme=basic" /></a>
 
