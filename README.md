@@ -3,7 +3,7 @@
 
 <p align ="center">
 <img width="25%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
-<img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee&layout=compact&langs_count=10)" />                                     
+<img width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepetolee&layout=compact&langs_count=10)" />                                     
 </p>
 <p align = "center">
 <img width="25%" align="center" height="160px" src="https://github-profile-trophy.vercel.app/?username=jepetolee&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />  
