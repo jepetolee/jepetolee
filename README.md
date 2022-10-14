@@ -1,5 +1,4 @@
 ### Interested in Neural_networks & Mathematical_Optimizations, love to read library Files
-### make projects with python, c++, rust
 
 <p align ="center">
 <img width="25%"  src="https://github-readme-stats.vercel.app/api?username=jepetolee&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
