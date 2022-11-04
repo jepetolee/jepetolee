@@ -16,9 +16,9 @@
 
 # Jepetolee's BOJ grade 
 <br> 
-
+<p align ="center">
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejeasok05">
-
+</p>
 <br>
 
 # Jepetolee's Leetcode status
