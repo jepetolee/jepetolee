@@ -17,7 +17,9 @@
 # Jepetolee's BOJ grade 
 <br> 
 <p align ="center">
+<div>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejeasok05">
+</div>
 </p>
 <br>
 
