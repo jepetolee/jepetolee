@@ -27,6 +27,10 @@
 
 [![Jepetolee's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jepetolee&theme=dark)](https://github.com/jepetolee/leetcode-stats)
 
+# Jepetolee's Awards 🏆
+SK Guided Project <Performance state prediction of SKT LTE base station equipment> 🏆 4th place
+
+
 ## How to Connect me
 ### My email: jepetolee@gmail.com
 ### My blog: https://jepetolee.github.io
