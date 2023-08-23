@@ -32,8 +32,8 @@
 SK Guided Project <Performance state prediction of SKT LTE base station equipment> 🏆 4th place
 <img align='center' src="https://user-images.githubusercontent.com/55366212/262703578-df7f06c6-7843-4ac2-82cb-2014794e93d3.png">
 # Jepetolee's Certificate📜
-https://cdn-api.elice.io/api/file/7b26e288ff704cb8ae51c453be2a9772/certificate_74490_18.pdf?se=2023-08-30T14%3A57%3A51Z&sp=r&sv=2021-04-10&sr=b&sig=rIsPMz3g38/tYrPUxO33ie33Q5w7qf62UsLmvM0S6v8%3D
-https://sharedlp.sk.com/dlp/myPage/eduHistory/eduUnivCertificateReport.do?completionCertificateSq=1193863
+<img align='center' src="https://cdn-api.elice.io/api/file/7b26e288ff704cb8ae51c453be2a9772/certificate_74490_18.pdf?se=2023-08-30T14%3A57%3A51Z&sp=r&sv=2021-04-10&sr=b&sig=rIsPMz3g38/tYrPUxO33ie33Q5w7qf62UsLmvM0S6v8%3D>
+<img align='center' src=https://sharedlp.sk.com/dlp/myPage/eduHistory/eduUnivCertificateReport.do?completionCertificateSq=1193863>
 ## How to Connect me
 ### My email: jepetolee@gmail.com
 ### My blog: https://jepetolee.github.io
