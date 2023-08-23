@@ -19,6 +19,7 @@
 <p align ="center">
 <div>
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejeasok05">
+    
 </div>
 </p>
 <br>
@@ -29,7 +30,7 @@
 
 # Jepetolee's Awards 🏆
 SK Guided Project <Performance state prediction of SKT LTE base station equipment> 🏆 4th place
-
+<img align='center' src="https://user-images.githubusercontent.com/55366212/262703578-df7f06c6-7843-4ac2-82cb-2014794e93d3.png">
 
 ## How to Connect me
 ### My email: jepetolee@gmail.com
